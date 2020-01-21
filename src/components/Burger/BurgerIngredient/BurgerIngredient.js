@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
 import '../BurgerIngredient/BurgerIngredient.css'
-import Aux from '../../../higherordercomponent/Aux'
+
 
 class BurgerIngredient extends Component  {
     render(){
